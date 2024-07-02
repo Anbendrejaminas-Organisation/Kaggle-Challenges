@@ -7,7 +7,7 @@ Challenge Link: https://www.kaggle.com/competitions/santander-customer-transacti
 The Data, Model SubmissionPrediction NOtebooks work as one pipeline from raw data to predictions and submission file. Data.ipynb requires "Data Raw" and "Data Preprocessed" as folders to start working. 
 Insert the data from https://www.kaggle.com/competitions/santander-customer-transaction-prediction/data into "Data Raw" and adjust the file paths if required. 
 
-Results:
+**Results:**
 
 ![grafik](https://github.com/benJsei123/Kaggle-Challenges/assets/52790750/2ce2ff04-5d4e-40fa-bd32-9e225c459368)
 
