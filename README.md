@@ -1,6 +1,9 @@
 # Kaggle-Challenges
-Collection of kaggle challenges, I completed so far.
+Collection of kaggle challenges, we've completed so far.
 
-**My Kaggle account:** https://www.kaggle.com/benjoben
+**Our Kaggle accounts:** 
+- https://www.kaggle.com/saerdnaandreas
+- https://www.kaggle.com/benjoben
+- 
 
-Please reach out for teaming on challenges. (I'm still very unexperienced but eager to learn)
+Please reach out for teaming on challenges.
